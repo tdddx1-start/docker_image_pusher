@@ -1,5 +1,5 @@
 #支持私库
-imaliang/cloud-media-sync:latest
+imaliang/cloud-media-sync:0.3.2.1
 emby/embyserver
 
 #支持指定架构
