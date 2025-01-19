@@ -1,6 +1,7 @@
 #支持私库
 imaliang/cloud-media-sync:0.3.2.1
 emby/embyserver
+stainless403/mdcx-builtin-gui-base
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
