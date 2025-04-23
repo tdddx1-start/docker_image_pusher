@@ -1,2 +1,2 @@
-#支持私库
-imaliang/cloud-media-sync:latest
+#支持私库 
+imaliang/cloud-media-sync:latest 
